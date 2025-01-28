@@ -1,6 +1,6 @@
 - ### 👋 Hi, Nice to meet you. 
-  <a href="https://www.linkedin.com/in/joan-parkinson-5186ab37/"></a>
-  ## About Me
+ 
+  ## About Me 
   As a new developer and cybersecurity analyst, I leverage my teaching and administrative background to bring unique skills to the table.
   My journey into programming has been challenging but rewarding, enhancing my communication and organizational abilities.
   I am eager to apply these transferable skills and make a positive impact in the tech field and dedication to solving complex problems.
